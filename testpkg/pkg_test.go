@@ -3,7 +3,7 @@ package testpkg
 import "testing"
 
 func TestFunction(t *testing.T) {
-	if Function() != "test10" {
+	if Function() != "test101" {
 		t.Fatal("test failed")
 	}
 }

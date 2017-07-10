@@ -1,5 +1,5 @@
 package testpkg
 
 func Function() string {
-	return "test10"
+	return "test101"
 }
