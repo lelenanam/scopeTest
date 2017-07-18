@@ -6,5 +6,5 @@ import (
 
 func main() {
 	testpkg.Function()
-	println("test")
+	println("test.")
 }
